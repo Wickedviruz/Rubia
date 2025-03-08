@@ -1,0 +1,11 @@
+[package]
+name = "mapeditor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { version = "0.13"}
+serde = { version = "1.0", features = ["derive"] }
+serde_yaml = "0.9"
+bevy_egui = "0.27"
+bincode = "1.3"
