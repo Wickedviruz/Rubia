@@ -1,0 +1,16 @@
+server:
+  ip: "127.0.0.1"
+  loginport: 7171
+  gameport: 7172
+
+account:
+  spawnx: "95"
+  spawny: 117
+  spawnz: 7
+
+database:
+  host: "localhost"
+  port: 3306
+  username: "root"
+  password: ""
+  database: "theforgottenserver"
